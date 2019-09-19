@@ -33,3 +33,6 @@
 |4|5|6|
 
 ![NKFUST](1.png "第一科大")
+
+嵌入影片
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
